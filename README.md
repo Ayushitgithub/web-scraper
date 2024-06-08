@@ -1,5 +1,5 @@
 web-scraper
-Assignment 3 Problem: Create a web scraper program to find out specific data structure from Web. In our case, we will try to scrape Disease Names and Details about each disease.
+Assignment 3 Problem: Create a web scraper program to find out specific data structure from the Web. In our case, we will try to scrape Disease Names and Details about each disease.
 
 Expected Output: The output must contain the following data:
 
